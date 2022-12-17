@@ -1,10 +1,6 @@
 ## Hi, There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-#### Some things about Me!
-
-####   QA Consultant | Automation Architect | Software Development Engineer in Test (SDET)
-
 ### 🛠️ Tech stack
 
 | Type         | Skills            |
