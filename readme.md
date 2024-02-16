@@ -5,31 +5,24 @@ Indian residing in Denmark (2820)
 Seasoned Tester with 12+ years of experience in software quality assurance, specializing in validating large-scale and high-performance systems. As a Test Automation Architect, I have a proven track record of developing reusable automation frameworks and implementing extreme automation for shifting-left testing. As an experienced QE Manager, I've successfully led geographically distributed teams, improved test efficiency, and established testing centers of excellence.
 
 ### 💻 Tech Wizard
+| **Category**                   | **Skills**                                                |
+| ------------------------------ | -------------------------------------------------------- |
+| **Automation Frameworks**      | Behavioral Driven, Data Driven, Page Object Model          |
+| **Automation Tools**           | Selenium, Appium, Cucumber, Karate, Cypress, Playwright, Leapwork, Rest Assured, SOAP UI, Postman, Tosca, JMeter, LoadRunner, UiPath |
+| **Test Management Tools**      | Azure Board, ALM, Jira, Xray, Zephyr, Bugzilla, VersionOne  |
+| **Test Frameworks**            | TestNG, JUnit, Mockito                                    |
+| **Programming Languages**      | Java, JavaScript                                         |
+| **Web Services**               | REST, SOAP                                               |
+| **Web Development Languages**  | HTML, PHP, JavaScript                                    |
+| **Other Languages**            | SQL, VBScript, XML, XQuery, JSON                          |
+| **Database**                   | Database (Oracle, MySQL, PostgreSQL, MongoDB)            |
+| **Application Server**         | Apache HTTP, Tomcat, Node                                 |
+| **Web Development**            | React                                                   |
+| **Mobile**                     | Android, iOS                                            |
+| **Device farms**               | Browserstack, LamdaTest, SauceLab                         |
+| **Dependency/Quality Tools**   | Maven, Gradle, SonarQube, Checkstyle, NPM                 |
+| **CI-CD Trailblazer**          | GitHub Actions, Azure DevOps, Jenkins, Bamboo, Docker      |
 
-#### Automation Maestro
-🤖 Automation Frameworks: Behavioral Driven, Data Driven, Page Object Model  
-🛠️ Automation Tools: Selenium, Appium, Cucumber, Karate, Cypress, Playwright, Leapwork, Rest Assured, SOAP UI, Postman, Tosca, JMeter, LoadRunner, UiPath
-
-#### Testing Realm
-📊 Test Management Tools: Azure Board, ALM, Jira, Xray, Zephyr, Bugzilla, VersionOne  
-🛡️ Test Frameworks: TestNG, JUnit, Mockito
-
-#### Code Sorcerer
-🚀 Programming Languages: Java, JavaScript  
-🌐 Web Services: REST, SOAP  
-💻 Web Development Languages: HTML, PHP, JavaScript
-
-#### Multilingual Communicator
-🌈 Other Languages: SQL, VBScript, XML, XQuery, JSON  
-
-#### Platform Explorer
-🚀 Platforms: Database (Oracle, MySQL, PostgreSQL, MongoDB), Application Server (Apache HTTP, Tomcat, Node), Web Development (Bootstrap), Mobile (Android, iOS), Device farm (Browserstack, LamdaTest, SauceLab)  
-
-#### Quality Guardian
-🧰 Dependency/Quality Tools: Maven, Gradle, SonarQube, Checkstyle, NPM
-
-#### CI-CD Trailblazer
-🚀 CI-CD: GitHub Actions, Azure DevOps, Jenkins, Bamboo, Docker
 
 ### 🤔 Quotes
 - “Test with no assertion is not a test”
