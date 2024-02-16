@@ -31,21 +31,23 @@ Seasoned Tester with 12+ years of experience in software quality assurance, spec
 #### CI-CD Trailblazer
 🚀 CI-CD: GitHub Actions, Azure DevOps, Jenkins, Bamboo, Docker
 
-### 🌐 Connect with Me
-[![Linkedin Badge](https://img.shields.io/badge/-dhamo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhamotharan-pk/)](https://www.linkedin.com/in/dhamotharan-pk/) 
-
 ### 🤔 Quotes
+“Test with no assertion is not a test”
+“A fool with a tool is still a fool"
+“I’m fast, my test feedback is also fast”
+“Meeting is meaningless but actions (showing the results) are”
 
+### 🤔 Random
 1. "In the world of coding, bugs are just unexpected features waiting to be discovered!" 🐞💻
 2. "Why do programmers prefer dark mode? Because light attracts bugs!" 🌌🦠
 3. "Code is like humor. When you have to explain it, it’s bad." 😄👩‍💻
 4. "The best thing about a boolean is even if you are wrong, you are only off by a bit." 🤖🔍
 
 ### 🏸 Hobbies
-
 - Chess ♛: I love a good game of chess to sharpen the mind and strategy.
 - Badminton 🏸: Fast-paced and fun, badminton keeps me active and agile.
 - Volleyball 🏐: Spiking and setting, volleyball is my go-to team sport for a great workout.
 - Sudoku 🧩: Solving Sudoku puzzles is my way of relaxing and unwinding after a day of coding.
 
 Let's code the future together! 🚀✨
+[![Linkedin Badge](https://img.shields.io/badge/-dhamo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhamotharan-pk/)](https://www.linkedin.com/in/dhamotharan-pk/) 
