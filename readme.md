@@ -32,10 +32,10 @@ Seasoned Tester with 12+ years of experience in software quality assurance, spec
 🚀 CI-CD: GitHub Actions, Azure DevOps, Jenkins, Bamboo, Docker
 
 ### 🤔 Quotes
-“Test with no assertion is not a test”
-“A fool with a tool is still a fool"
-“I’m fast, my test feedback is also fast”
-“Meeting is meaningless but actions (showing the results) are”
+- “Test with no assertion is not a test”
+- “A fool with a tool is still a fool"
+- “I’m fast, my test feedback is also fast”
+- “Meeting is meaningless but actions (showing the results) are”
 
 ### 🤔 Random
 1. "In the world of coding, bugs are just unexpected features waiting to be discovered!" 🐞💻
