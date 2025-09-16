@@ -8,7 +8,7 @@ Seasoned Tester with 12+ years of experience in software quality assurance, spec
 | **Category**                   | **Skills**                                                |
 | ------------------------------ | -------------------------------------------------------- |
 | **Automation Frameworks**      | Behavioral Driven, Data Driven, Page Object Model          |
-| **Automation Tools**           | Selenium, Appium, Cucumber, Karate, Cypress, Playwright, Leapwork, Rest Assured, SOAP UI, Postman, Tosca, JMeter, LoadRunner, UiPath |
+| **Testing Tools**              | Selenium, Appium, Cucumber, Karate, Cypress, Playwright, Leapwork, Rest Assured, SOAP UI, Postman, Tosca, JMeter, LoadRunner, Tosca |
 | **Test Management Tools**      | Azure Board, ALM, Jira, Xray, Zephyr, Bugzilla, VersionOne  |
 | **Test Frameworks**            | TestNG, JUnit, Mockito                                    |
 | **Programming Languages**      | Java, JavaScript                                         |
