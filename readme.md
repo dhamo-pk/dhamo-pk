@@ -2,7 +2,7 @@
 
 Indian residing in Denmark (2820) 
 
-Seasoned Tester with 12+ years of experience in software quality assurance, specializing in validating large-scale and high-performance systems. As a Test Automation Architect, I have a proven track record of developing reusable automation frameworks and implementing extreme automation for shifting-left testing. As an experienced QE Manager, I've successfully led geographically distributed teams, improved test efficiency, and established testing centers of excellence.
+Seasoned Tester experienced in software quality assurance, specializing in validating large-scale and high-performance systems. As a Test Automation Architect, I have a proven track record of developing reusable automation frameworks and implementing extreme automation for shifting-left testing. As an experienced QE Manager, I've successfully led geographically distributed teams, improved test efficiency, and established testing centers of excellence.
 
 ### 💻 Tech Wizard
 | **Category**                   | **Skills**                                                |
